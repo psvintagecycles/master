@@ -1,0 +1,15 @@
+Instructions 
+
+ Global changes are made in the file Templates/project.dwt. 
+ First of all Go to Site -> Site Settings and check the box for "Manage the web using hidden metadata files"
+ The body section has been defined as an editable region. You can make changes here on each page. 
+ To make "site wide" changes, simply open Templates/project.dwt and make your changes there for the headers, footers and navigation.
+ On saving the template, you will be given the option to update all pages in your site with the changes.
+ 
+All the font, backgrounds, colors etc. can be edited in the file style.css. This file is commented with a note about which part of the layout the code refers to.
+
+You can add extra CSS but it's best to back up style.css before making any changes.
+
+For further information regarding CSS, we recommend http://www.w3schools.com/
+
+We have an ecommerce enabled version of this template at www.ecommercetemplates.com

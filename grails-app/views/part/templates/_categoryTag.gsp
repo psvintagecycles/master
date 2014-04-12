@@ -1,0 +1,1 @@
+<span>${partInstance.partCategoryTags?.categoryTag }</span><br>
